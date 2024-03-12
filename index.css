@@ -16,9 +16,8 @@ th{
   background-color: darkcyan;
   color: white;
 }
-/*tbody tr:nth-child(even){
+tbody tr:nth-child(even){
   background-color: cyan;
-}*/
 #save{
   margin: 8px;
   background-color: black;
